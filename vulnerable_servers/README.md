@@ -5,13 +5,13 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - bWAPP : <https://sourceforge.net/projects/bwapp/files/bWAPP>
 - Damn Vulnerable ARM Router (DVAR): <http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html>
 - Damn Vulnerable iOS Application (DVIA): <http://damnvulnerableiosapp.com>
-- Damn Vulnerable Linux (DVL): <https://osdn.net/projects/sfnet_virtualhacking/downloads/os/dvl/DVL_1.5_Infectious_Disease.iso>
 - Damn Vulnerable Web App (DVWA): <https://github.com/ethicalhack3r/DVWA>
 - DOMXSS: <http://www.domxss.com/domxss/>
 - Game of Hacks: <http://www.gameofhacks.com>
 - Gruyere: <https://google-gruyere.appspot.com>
 - Hack This Site: <https://www.hackthissite.org>
 - Hack This: <https://www.hackthis.co.uk>
+- Hack Yourself first <https://hack-yourself-first.com/>
 - Hackazon : <https://github.com/rapid7/hackazon>
 - HellBound Hackers: <https://www.hellboundhackers.org>
 - Metasploitable2 : <https://community.rapid7.com/docs/DOC-1875>
@@ -26,5 +26,5 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - Vicnum: <http://vicnum.ciphertechs.com>
 - VulnHub:https://www.vulnhub.com
 - Web Security Dojo: <https://www.mavensecurity.com/resources/web-security-dojo>
-- **WebSploit** (maintained by Omar Santos): https://websploit.h4cker.org
+- **WebSploit** (created and maintained by Omar Santos): https://websploit.h4cker.org
 - WebGoat: <https://github.com/WebGoat/WebGoat>

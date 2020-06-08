@@ -29,6 +29,22 @@ You can integrate ZAP with Jenkins and even automatically create Jira issues bas
 
 [This video](https://www.youtube.com/watch?v=mmHZLSffCUg) provides an overview of how to integrate  
 
+## Kubernetes Security
+- [Kubernetes Pentest Methodology (part 1) by CyberArk](https://www.cyberark.com/threat-research-blog/kubernetes-pentest-methodology-part-1/)
+- [Kubernetes Pentest Methodology (part 2) by CyberArk](https://www.cyberark.com/threat-research-blog/kubernetes-pentest-methodology-part-2/)
+- [Kubernetes Pentest Methodology (part 2) by CyberArk](https://www.cyberark.com/threat-research-blog/kubernetes-pentest-methodology-part-3/)
+- [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions/)
+- [Kubernetes Network Policies Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+- [Kubiscan](https://github.com/cyberark/KubiScan)
+- [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
+
+
+## Docker Security
+- [OWASP Docker security resources](https://github.com/OWASP/Docker-Security)
+- [Docker Bench for Security](https://github.com/docker/docker-bench-security)
+- [Dockerscan](https://github.com/cr0hn/dockerscan)
+- [Docker Security Playground](https://github.com/giper45/DockerSecurityPlayground)
+
 ## Javascript Tools
 * [Retire.js](https://retirejs.github.io/retire.js)
 
@@ -41,7 +57,7 @@ You can integrate ZAP with Jenkins and even automatically create Jira issues bas
 - [Cross-Site Scripting – Application Security – Google](https://www.google.com/intl/sw/about/appsecurity/learning/xss/) - Introduction to XSS by [Google](https://www.google.com/).
 - [H5SC](https://github.com/cure53/H5SC) - HTML5 Security Cheatsheet - Collection of HTML5 related XSS attack vectors by [@cure53](https://github.com/cure53).
 - [XSS.png](https://github.com/jackmasa/XSS.png) - XSS mind map by [@jackmasa](https://github.com/jackmasa).
-- [C.XSS Guide](https://excess-xss.com/) - Comprehensive tutorial on cross-site scripting by [@JakobKallin](https://github.com/JakobKallin) and [Irene Lobo Valbuena](https://www.linkedin.com/in/irenelobovalbuena/).
+- [EXCESS-XSS Guide](https://excess-xss.com/) - Comprehensive tutorial on cross-site scripting by [@JakobKallin](https://github.com/JakobKallin) and [Irene Lobo Valbuena](https://www.linkedin.com/in/irenelobovalbuena/).
 
 ### CSV Injection
 
@@ -298,7 +314,6 @@ You can integrate ZAP with Jenkins and even automatically create Jira issues bas
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
-- [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core)
 - [PHP](https://github.com/ziadoz/awesome-php)
